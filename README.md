@@ -1,2 +1,3 @@
 # Numeric-car-sim
-This is the Precode for a numeric avionic simulator I am thinking of doing. It is very basic and dumb and I am testing my knowledge of oop.
+This is the Precode for a numeric avionic simulator I am thinking of doing. It is very basic and dumb and I am testing my limited knowledge of oop.
+So the plan is to create a mathematical model of a car driving experience. The program will have simple functions car start, car accelerate and car brake initially. I intend to add more features like fuel indication, fuel pumps, steering control direction etc. Note this is a non graphic simulation and I hope someone might find this useful if they are planning to make a car driving experience game like dr driving. The assumptions made are as - The World is a open place with no limited steering(no roads) and it is flat. This assumption might seem foolish but it is important for fuel calculation. 
